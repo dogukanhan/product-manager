@@ -1,0 +1,12 @@
+D:\projects\kocsistem\m1_ProductManager\v1\ProductManager\ProductManagerModel\bin\Debug\net5.0\ProductManagerDomain.deps.json
+D:\projects\kocsistem\m1_ProductManager\v1\ProductManager\ProductManagerModel\bin\Debug\net5.0\ProductManagerDomain.dll
+D:\projects\kocsistem\m1_ProductManager\v1\ProductManager\ProductManagerModel\bin\Debug\net5.0\ref\ProductManagerDomain.dll
+D:\projects\kocsistem\m1_ProductManager\v1\ProductManager\ProductManagerModel\bin\Debug\net5.0\ProductManagerDomain.pdb
+D:\projects\kocsistem\m1_ProductManager\v1\ProductManager\ProductManagerModel\obj\Debug\net5.0\ProductManagerDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\kocsistem\m1_ProductManager\v1\ProductManager\ProductManagerModel\obj\Debug\net5.0\ProductManagerDomain.AssemblyInfoInputs.cache
+D:\projects\kocsistem\m1_ProductManager\v1\ProductManager\ProductManagerModel\obj\Debug\net5.0\ProductManagerDomain.AssemblyInfo.cs
+D:\projects\kocsistem\m1_ProductManager\v1\ProductManager\ProductManagerModel\obj\Debug\net5.0\ProductManagerDomain.csproj.CoreCompileInputs.cache
+D:\projects\kocsistem\m1_ProductManager\v1\ProductManager\ProductManagerModel\obj\Debug\net5.0\ProductManagerDomain.dll
+D:\projects\kocsistem\m1_ProductManager\v1\ProductManager\ProductManagerModel\obj\Debug\net5.0\ref\ProductManagerDomain.dll
+D:\projects\kocsistem\m1_ProductManager\v1\ProductManager\ProductManagerModel\obj\Debug\net5.0\ProductManagerDomain.pdb
+D:\projects\kocsistem\m1_ProductManager\v1\ProductManager\ProductManagerModel\obj\Debug\net5.0\ProductManagerDomain.csproj.AssemblyReference.cache
